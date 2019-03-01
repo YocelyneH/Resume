@@ -1,6 +1,4 @@
-Picture [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Yocelyne Hernandez
+![profile](profile.jpeg)
 
 **Contact Info:** 
 ![email icon](Mail-icon.png) [Email](mailto:yhernandez@miracosta.edu) ![linkedin icon](linkedin-icon.png) [LinkedIn](https://www.linkedin.com/in/yocelyne-hernandez-7a29ba161/)
