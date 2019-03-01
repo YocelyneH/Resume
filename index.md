@@ -1,7 +1,12 @@
-![Yocelyne_profile](https://github.com/YocelyneH/Resume/blob/master/Yocelyne_profile.jpg =100x50)
+<img src="Yocelyne_profile.jpg" alt="drawing" width="215"/>
 
-**Contact Info:** 
-![email icon](Mail-icon.png) [Email](mailto:yhernandez@miracosta.edu) ![linkedin icon](linkedin-icon.png) [LinkedIn](https://www.linkedin.com/in/yocelyne-hernandez-7a29ba161/)
+# Yocelyne Hernandez
+
+### Contact Info: ![email icon](Mail-icon.png) [Email](mailto:yhernandez@miracosta.edu) ![linkedin icon](linkedin-icon.png) [LinkedIn](https://www.linkedin.com/in/yocelyne-hernandez-7a29ba161/)
+
+
+### Summary
+  After recieving my AA degree, I am planning to transfer to a University of California to complete my bachelors degree in Computer   Science. With my degree I plan to become a professor at a university. 
 
 ### Education
 
@@ -27,10 +32,6 @@ Lower-Division
 * Basic Data Structures and Algorithms
 * C++ Programming
 * Programming with Python
-
-### Experience
-
-
 
 ### Awards and Accomplishments
 * Grand Prize Winner at the 2018 CSUSM Women’s Hackathon
