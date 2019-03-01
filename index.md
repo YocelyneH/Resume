@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+Picture [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-You can use the [editor on GitHub](https://github.com/YocelyneH/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Yocelyne Hernandez
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Contact Info:** 
+![email icon](Mail-icon.png) [Email](mailto:yhernandez@miracosta.edu) ![linkedin icon](linkedin-icon.png) [LinkedIn](https://www.linkedin.com/in/yocelyne-hernandez-7a29ba161/)
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MiraCosta College, Oceanside CA
+* GPA of 3.9
+* Associates Degree of Liberal Arts: Math and Sciences, expected Spring 2019
+* Associates Degree of Computer Programming Fundamentals, expected Spring 2020
 
-```markdown
-Syntax highlighted code block
+El Camino High School, High School Diploma June 8, 2017
+* Honors graduate with a GPA of 3.9
+* AP Scholar award
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
+* Primary Languages: Java, C++ 
+* Secondary Languages: Python
+* Foreign Languages: Spanish, fluent in written and oral communication
+* Leadership experience in various settings (Hackathon Winner, OMNI presenter)
 
-- Bulleted
-- List
+### Relevent Coursework
+Lower-Division
+* Introduction to Computer Science I: Java
+* Introduction to Computer Science II: Java
+* Basic Data Structures and Algorithms
+* C++ Programming
+* Programming with Python
 
-1. Numbered
-2. List
+### Experience
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Awards and Accomplishments
+* Grand Prize Winner at the 2018 CSUSM Women’s Hackathon
+* Presented research about Machine Learning at the OMNI research conference in Fall 2018
+* Participated in the ACM Regional Programming contest in Riverside
+* Received the President’s List reward for high-level academic success 
+* MiraCosta College Annual Scholarship Recipient, Fall 2018, Spring 2019
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YocelyneH/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
