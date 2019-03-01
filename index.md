@@ -1,4 +1,4 @@
-![Yocelyne_profile](Yocelyne_profile.jpeg)
+![Yocelyne_profile](https://github.com/YocelyneH/Resume/blob/master/Yocelyne_profile.jpg)
 
 **Contact Info:** 
 ![email icon](Mail-icon.png) [Email](mailto:yhernandez@miracosta.edu) ![linkedin icon](linkedin-icon.png) [LinkedIn](https://www.linkedin.com/in/yocelyne-hernandez-7a29ba161/)
